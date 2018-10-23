@@ -1,0 +1,24 @@
+body {
+    background-color:yellow;
+}
+h2 {
+    color: Blue;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
+
+img {
+    border: solid 12px teal;
+}
+h1 {
+    text-align: left;
+    color: #3399ff;
+}
+p {
+    font-size: 20px;
+}
+li {
+    font-size:20px;
+    color: #00ff55;
+}
